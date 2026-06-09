@@ -123,6 +123,10 @@ Output:
 25
 ```
 
+## Output Image
+
+<img width="742" height="622" alt="image" src="https://github.com/user-attachments/assets/868a5b13-aefe-42d1-b6ab-578b471c2d31" />
+
 ## Working Principle
 
 1. User clicks number buttons.
